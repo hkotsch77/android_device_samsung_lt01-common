@@ -1,0 +1,6 @@
+ro.sf.lcd_density=213
+ro.lcd_min_brightness=20
+dalvik.vm.dexopt-data-only=1
+
+# EGL blobs crash on screen off
+ro.egl.destroy_after_detach=true
